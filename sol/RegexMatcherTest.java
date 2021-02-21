@@ -1,4 +1,4 @@
-package lab05.sol;
+package sol;
 
 import tester.Tester;
 
